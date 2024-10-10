@@ -27,7 +27,7 @@
 - ⚡ Fun fact **I automate everything I can, even my coffee brewing! ☕💻**
 
 
-
+</br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img
