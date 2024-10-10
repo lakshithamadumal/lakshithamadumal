@@ -1,16 +1,160 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Lakshitha Madumal</h1>
+<h3 align="center">Love coding, learning, and solving problems with clean, efficient code.</h3>
 
-<!--
-**lakshithamadumal/lakshithamadumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshithamadumal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshithamadumal" /> </p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Weelky](https://www.figma.com/design/S1dCD7znhvbGBbYnl9P12q/Weekly?node-id=0-1&t=gu2ajiFVnoniWaTu-1)
+
+- 🌱 I’m currently learning **Advanced React Native and cloud architecture to level up my full-stack skills!**
+
+- 👯 I’m looking to collaborate on [ZGenCRMS](https://github.com/lakshithamadumal/ZGenCRMS)
+
+- 🤝 I’m looking for help with [Harvest](https://www.figma.com/design/91jXlCmpqO1oigVkGqbEDl/Harvest-Ui?node-id=0-1&t=lVYWf2Qs2DYDwkjv-1)
+
+- 👨‍💻 All of my projects are available at [https://linktr.ee/Lakshitha_madumal](https://linktr.ee/Lakshitha_madumal)
+
+- 📝 I regularly write articles on [https://techzone-to-future.blogspot.com/](https://techzone-to-future.blogspot.com/)
+
+- 💬 Ask me about **HTML, CSS, JS, JAVA, REACT**
+
+- 📫 How to reach me **mandujayaweera2003@gmail.com**
+
+- ⚡ Fun fact **I automate everything I can, even my coffee brewing! ☕💻**
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/lakshith2003" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Light.svg" alt="lakshith2003" height="50" width="50" /></a>
+<a href="https://twitter.com/lakshitha_m_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="lakshitha_m_" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/lakshitha-mandumal-2614b5293" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="lakshitha-mandumal-2614b5293" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/27728435" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Light.svg" alt="27728435" height="50" width="50" /></a>
+<a href="https://fb.com/lakshitha.mandumal.3" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" alt="lakshitha.mandumal.3" height="50" width="50" /></a>
+<a href="https://instagram.com/l_a_k_y_2" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-498425.png?f=webp&w=256" alt="l_a_k_y_2" height="50" width="50" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@l_a_k_y_2?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--social-media-video-square-pack-logos-icons-9343758.png?f=webp&w=256" alt="https://www.youtube.com/@l_a_k_y_2?sub_confirmation=1" height="50" width="50" /></a>
+<a href="https://discord.gg/l_a_k_y_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="l_a_k_y_" height="50" width="50" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
+            alt="angularjs" width="50" height="50" /> 
+ <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
+            alt="css3" width="50" height="50" /> 
+ <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"
+            alt="angularjs" width="50" height="50" />
+ <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg"
+            alt="angular" width="50" height="50" />
+ <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"
+            alt="arduino" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"
+            alt="aws" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
+            alt="babel" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg"
+            alt="blender" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg"
+            alt="cplusplus" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg"
+            alt="django"
+            width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"
+            alt="docker" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"
+            alt="dotnet" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"
+            alt="figma" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"
+            alt="firebase" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg"
+            alt="flutter" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg"
+            alt="gcp" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg"
+            alt="git" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
+            alt="html5" width="50" height="50" />
+<img
+            src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-photoshop-icon-download-in-svg-png-gif-file-formats--logo-ps-products-pack-design-development-icons-3516519.png?f=webp&w=256"
+            alt="illustrator" width="50" height="50" />
+<img
+            src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-illustrator-icon-download-in-svg-png-gif-file-formats--logo-ai-products-pack-design-development-icons-3516509.png?f=webp&w=256"
+            alt="illustrator" width="50" height="50" /> 
+<img
+            src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-lightroom-icon-download-in-svg-png-gif-file-formats--logo-lr-products-pack-design-development-icons-3516515.png?f=webp&w=256"
+            alt="illustrator" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"
+            alt="invision" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg"
+            alt="invision" width="50" height="50" />
+ <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"
+            alt="invision" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"
+            alt="java" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg"
+            alt="kotlin" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
+            alt="laravel" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"
+            alt="linux" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg"
+            alt="matlab" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
+            alt="mongodb" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"
+            alt="mssql" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Dark.svg"
+            alt="nativescript" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"
+            alt="nodejs" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"
+            alt="php" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"
+            alt="postman" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"
+            alt="python" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg"
+            alt="sass" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg"
+            alt="xd"
+            width="50" height="50" />  </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/lakshithamadumal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lakshithamadumal" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshithamadumal&show_icons=true&locale=en&layout=compact" alt="lakshithamadumal" /></p>
