@@ -3,6 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshithamadumal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshithamadumal" /> </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+</p>
+
 ---
 
 - 🔭 I’m currently working on [Weelky](https://www.figma.com/design/S1dCD7znhvbGBbYnl9P12q/Weekly?node-id=0-1&t=gu2ajiFVnoniWaTu-1)
