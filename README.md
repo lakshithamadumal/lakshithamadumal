@@ -25,7 +25,7 @@
 
 
 </br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
@@ -144,8 +144,8 @@
             alt="xd"
             width="50" height="50" />  </p>
 
-            
-<h3 align="left">Connect with me:</h3>
+         
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/lakshith2003" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Light.svg" alt="lakshith2003" height="50" width="50" /></a>
 <a href="https://twitter.com/lakshitha_m_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="lakshitha_m_" height="50" width="50" /></a>
