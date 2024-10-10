@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lakshitha Madumal</h1>
-<h3 align="center">Love coding, learning, and solving problems with clean, efficient code.</h3>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanjayabhanu&hide_border=true&theme=github_dark&card_width=1000" alt="Dulanjaya Bhanu Summary" /></p>
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshithamadumal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshithamadumal" /> </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
----
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=dulanjayabhanu&color=brightgreen&base=1000&abbreviated=true&style=flat) ![Followers](https://img.shields.io/github/followers/dulanjayabhanu?label=Followers) ![Stars](https://img.shields.io/github/stars/dulanjayabhanu?label=Stars) ![Stars](https://img.shields.io/badge/Open_source-Hell_Yeah-brightgreen&style=flat) ![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2054%20mins-brightgreen) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+</br>
 
 - 🔭 I’m currently working on [Weelky](https://www.figma.com/design/S1dCD7znhvbGBbYnl9P12q/Weekly?node-id=0-1&t=gu2ajiFVnoniWaTu-1)
 
