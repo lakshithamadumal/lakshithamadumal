@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanjayabhanu&hide_border=true&theme=github_dark&card_width=1000" alt="Dulanjaya Bhanu Summary" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanjayabhanu&hide_border=true&theme=github_dark&card_width=1000" alt="Lakshitha Summary" /></p>
 </div>
 
 <div align="center">
