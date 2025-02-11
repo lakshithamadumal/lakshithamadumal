@@ -8,13 +8,13 @@
 </div>
 </br>
 
-- 🔭 I’m currently working on [Weelky](https://www.figma.com/design/S1dCD7znhvbGBbYnl9P12q/Weekly?node-id=0-1&t=gu2ajiFVnoniWaTu-1)
+- 🔭 I’m currently working on [AYU-AI](https://ayu-puce.vercel.app/)
 
 - 🌱 I’m currently learning **Advanced React Native and cloud architecture to level up my full-stack skills!**
 
 - 👯 I’m looking to collaborate on [ZGenCRMS](https://github.com/lakshithamadumal/ZGenCRMS)
 
-- 🤝 I’m looking for help with [Harvest](https://www.figma.com/design/91jXlCmpqO1oigVkGqbEDl/Harvest-Ui?node-id=0-1&t=lVYWf2Qs2DYDwkjv-1)
+- 🤝 I’m looking for help with [Weelky](https://www.figma.com/design/S1dCD7znhvbGBbYnl9P12q/Weekly?node-id=0-1&t=gu2ajiFVnoniWaTu-1)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Lakshitha_madumal](https://linktr.ee/Lakshitha_madumal)
 
