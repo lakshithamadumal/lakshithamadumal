@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Lakshitha_madumal](https://linktr.ee/Lakshitha_madumal)
 
-- 📝 I regularly write articles on [https://techzone-to-future.blogspot.com/](https://techzone-to-future.blogspot.com/)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/lakshitha-madumal/)
 
 - 💬 Ask me about **HTML, CSS, JS, JAVA, REACT**
 
