@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Advanced React Native and cloud architecture to level up my full-stack skills!**
 
-- 👯 I’m looking to collaborate on [ZGenCRMS](https://github.com/lakshithamadumal/ZGenCRMS)
+- 👯 I’m looking to collaborate on [Cinema-Reservation-System](https://github.com/lakshithamadumal/Cinema-Reservation-System)
 
 - 🤝 I’m looking for help with [Weelky](https://www.figma.com/design/S1dCD7znhvbGBbYnl9P12q/Weekly?node-id=0-1&t=gu2ajiFVnoniWaTu-1)
 
