@@ -1,10 +1,10 @@
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanjayabhanu&hide_border=true&theme=github_dark&card_width=1000" alt="Lakshitha Summary" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshithamadumal&hide_border=true&theme=github_dark&card_width=1000" alt="Lakshitha Summary" /></p>
 </div>
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=dulanjayabhanu&color=brightgreen&base=1000&abbreviated=true&style=flat) ![Followers](https://img.shields.io/github/followers/dulanjayabhanu?label=Followers) ![Stars](https://img.shields.io/github/stars/dulanjayabhanu?label=Stars) ![Stars](https://img.shields.io/badge/Open_source-Hell_Yeah-brightgreen&style=flat) ![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2054%20mins-brightgreen) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![](https://komarev.com/ghpvc/?username=lakshithamadumal&color=brightgreen&base=1000&abbreviated=true&style=flat) ![Followers](https://img.shields.io/github/followers/lakshithamadumal?label=Followers) ![Stars](https://img.shields.io/github/stars/lakshithamadumal?label=Stars) ![Stars](https://img.shields.io/badge/Open_source-Hell_Yeah-brightgreen&style=flat) ![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2054%20mins-brightgreen) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 </br>
 
