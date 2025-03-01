@@ -152,11 +152,11 @@
 <p align="center">
 <a href="https://codepen.io/lakshith2003" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Light.svg" alt="lakshith2003" height="50" width="50" /></a>
 <a href="https://twitter.com/lakshitha_m_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="lakshitha_m_" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/lakshitha-mandumal-2614b5293" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="lakshitha-mandumal-2614b5293" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/lakshitha-madumal/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="lakshitha-mandumal-2614b5293" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/27728435" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Light.svg" alt="27728435" height="50" width="50" /></a>
-<a href="https://fb.com/lakshitha.mandumal.3" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" alt="lakshitha.mandumal.3" height="50" width="50" /></a>
-<a href="https://instagram.com/l_a_k_y_2" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-498425.png?f=webp&w=256" alt="l_a_k_y_2" height="50" width="50" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@l_a_k_y_2?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--social-media-video-square-pack-logos-icons-9343758.png?f=webp&w=256" alt="https://www.youtube.com/@l_a_k_y_2?sub_confirmation=1" height="50" width="50" /></a>
+<a href="https://facebook.com/lakshitha.mandumal.3/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" alt="lakshitha.mandumal.3" height="50" width="50" /></a>
+<a href="https://instagram.com/itz_laky_" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-498425.png?f=webp&w=256" alt="l_a_k_y_2" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@l_a_k_y_2?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--social-media-video-square-pack-logos-icons-9343758.png?f=webp&w=256" alt="https://www.youtube.com/@l_a_k_y_2?sub_confirmation=1" height="50" width="50" /></a>
 <a href="https://discord.gg/l_a_k_y_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="l_a_k_y_" height="50" width="50" /></a>
 </p></br>
 
