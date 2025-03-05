@@ -162,6 +162,11 @@
 </p></br>
 
 
-<p align="center"><a href="https://www.buymeacoffee.com/lakshithamadumal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lakshithamadumal" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/lakshithamadumal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lakshithamadumal" /></a></p><br><be>
+
+<div align="center">
+<br>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=39d353&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=footer"/>
