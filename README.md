@@ -164,3 +164,4 @@
 
 <p align="center"><a href="https://www.buymeacoffee.com/lakshithamadumal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lakshithamadumal" /></a></p><br><br>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=footer"/>
