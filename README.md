@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/lakshitha-madumal/)
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, JAVA, JAVA EE, REACT**
+- 💬 Ask me about **HTML, CSS, JS, PHP, JAVAaa, JAVA EE, REACT**
 
 - 📫 How to reach me **mandujayaweera2003@gmail.com**
 
