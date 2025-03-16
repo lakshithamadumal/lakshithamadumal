@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **mandujayaweera2003@gmail.com**
 
-- ⚡ Fun fact **I automate everything I can, even my coffee brewing! ☕💻**
+- ⚡ Fun fact **I automate everythingeverything I can, even my coffee brewing! ☕💻**
 
 
 
