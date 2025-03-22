@@ -40,6 +40,9 @@
  <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"
             alt="angularjs" width="50" height="50" />
+   <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"
+            alt="angularjs" width="50" height="50" />
  <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg"
             alt="angular" width="50" height="50" />
