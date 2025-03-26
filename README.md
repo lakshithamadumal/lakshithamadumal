@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [AYU-AI](https://ayu-puce.vercel.app/)
 
-- 🌱 I’m currently learning **Advanced React Native and cloud architecture to level up my full-stack skills!**fgfghg
+- 🌱 I’m currently learning **Advanced React Native and cloud architecture to level up my full-stack skills!**
 
 - 👯 I’m looking to collaborate on [Cinema-Reservation-System](https://github.com/lakshithamadumal/Cinema-Reservation-System)
 
