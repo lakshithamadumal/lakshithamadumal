@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=header"/>hfghgjgfjutyuyrdy
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=header"/>hfghgjgfjutyuyrdytyuityui
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshithamadumal&hide_border=true&theme=github_dark&card_width=1000" alt="Lakshitha Summary" /></p>
 </div>
