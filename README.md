@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [Weelky](https://www.figma.com/design/S1dCD7znhvbGBbYnl9P12q/Weekly?node-id=0-1&t=gu2ajiFVnoniWaTu-1)
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Lakshitha_madumal](https://linktr.ee/Lakshitha_madumal)
+- 👨‍💻 All of my projects are available at [Portfolio](http://iamlaky.online/)
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/lakshitha-madumal/)
 
