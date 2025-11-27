@@ -30,7 +30,7 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
             alt="angularjs" width="50" height="50" /> 
@@ -119,7 +119,7 @@
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg"
             alt="xd"
-            width="50" height="50" />  </p>
+            width="50" height="50" />  
 
          
 <h3 align="center">Connect with me:</h3>
