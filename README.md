@@ -211,6 +211,7 @@
   width="50"
   height="50"
 />
+<p align="center">
 <img
   src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-photoshop-icon-download-in-svg-png-gif-file-formats--logo-ps-products-pack-design-development-icons-3516519.png?f=webp&w=256"
   alt="illustrator"
@@ -247,7 +248,6 @@
   width="50"
   height="50"
 />
-<p align="center">
 <img
   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
   alt="laravel"
