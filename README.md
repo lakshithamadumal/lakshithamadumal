@@ -53,22 +53,18 @@
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
             alt="babel" width="50" height="50" />
-
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg"
             alt="cplusplus" width="50" height="50" />
-
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"
             alt="figma" width="50" height="50" />
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"
             alt="firebase" width="50" height="50" />
-
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg"
             alt="gcp" width="50" height="50" /> 
-
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
             alt="html5" width="50" height="50" />
@@ -102,12 +98,9 @@
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"
             alt="linux" width="50" height="50" /> 
-
-
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"
             alt="mssql" width="50" height="50" /> 
-
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"
             alt="nodejs" width="50" height="50" />
