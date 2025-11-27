@@ -34,39 +34,93 @@
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
             alt="angularjs" width="50" height="50" /> 
- <img
+<img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
             alt="css3" width="50" height="50" /> 
- <img
+<img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"
             alt="angularjs" width="50" height="50" />
- <img
+<img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg"
             alt="angular" width="50" height="50" />
- <img
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg"
+            alt="as" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
+            alt="html5" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"
+            alt="html5" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
+            alt="babel" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"
+            alt="type" width="50" height="50" />            
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"
+            alt="java" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"
+            alt="php" width="50" height="50" />            
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg"
+            alt="Hibernate" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg"
+            alt="kotlin" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"
+            alt="NextJS" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"
+            alt="python" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg"
+            alt="sass" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"
+            alt="tail" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg"
+            alt="three" width="50" height="50" />            
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg"
+            alt="npm" width="50" height="50" />            
+<img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"
             alt="arduino" width="50" height="50" /> 
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"
             alt="aws" width="50" height="50" /> 
 <img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
-            alt="babel" width="50" height="50" />
-<img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg"
             alt="cplusplus" width="50" height="50" />
 <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg"
+            alt="JQuery" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"
+            alt="Maven" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg"
+            alt="opencv" width="50" height="50" />            
+<img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"
-            alt="figma" width="50" height="50" />
+            alt="figma" width="50" height="50" />            
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"
+            alt="MaterialUI" width="50" height="50" />            
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"
             alt="firebase" width="50" height="50" />
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg"
-            alt="gcp" width="50" height="50" /> 
+            alt="gcp" width="50" height="50" />
 <img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
-            alt="html5" width="50" height="50" />
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg"
+            alt="kali" width="50" height="50" />            
 <img
             src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-photoshop-icon-download-in-svg-png-gif-file-formats--logo-ps-products-pack-design-development-icons-3516519.png?f=webp&w=256"
             alt="illustrator" width="50" height="50" />
@@ -82,15 +136,9 @@
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg"
             alt="invision" width="50" height="50" />
- <img
+<img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"
             alt="invision" width="50" height="50" />
-<img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"
-            alt="java" width="50" height="50" /> 
-<img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg"
-            alt="kotlin" width="50" height="50" /> 
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
             alt="laravel" width="50" height="50" />
@@ -104,17 +152,14 @@
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"
             alt="nodejs" width="50" height="50" />
 <img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"
-            alt="php" width="50" height="50" /> 
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg"
+            alt="power" width="50" height="50" />            
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"
             alt="postman" width="50" height="50" />
 <img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"
-            alt="python" width="50" height="50" /> 
-<img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg"
-            alt="sass" width="50" height="50" /> 
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg"
+            alt="v" width="50" height="50" />            
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg"
             alt="xd"
