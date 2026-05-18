@@ -9,25 +9,25 @@
 </div>
 </br>
 
-- 🔭 I’m currently working on [AYU-AI](https://ayu-puce.vercel.app/)
+- 🔭 I’m currently working on [Roomer v2](https://github.com/The-Zenon-Studio/roomer-ledger-app-v2)
 
-- 🌱 I’m currently learning **Advanced React Native and cloud architecture to level up my full-stack skills!**
+- 🌱 I’m currently learning **Spring Boot, Flutter, Supabase and expanding into modern full-stack development**
 
-- 👯 I’m looking to collaborate on [Cinema-Reservation-System](https://github.com/lakshithamadumal/Cinema-Reservation-System)
+- 👯 I’m open to collaborating on **Java, Android, AI and Full Stack projects**
 
-- 🤝 I’m looking for help with [Weelky](https://www.figma.com/design/S1dCD7znhvbGBbYnl9P12q/Weekly?node-id=0-1&t=gu2ajiFVnoniWaTu-1)
+- 🤝 I’m looking to collaborate on innovative ideas in **AI, Mobile Apps and Modern Web Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://iamlaky.online/)
 
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/lakshitha-madumal/)
+- 📝 I regularly write articles on LinkedIn
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, JAVA, JAVA EE, REACT, REACT NATIVE, ANDROID**
+- 💬 Ask me about **Java, Java EE, Android, JavaFX, Swing, React Native, Flutter, PHP, Firebase, UI/UX**
 
-- 📫 How to reach me **mandujayaweera2003@gmail.com**
+- 📫 Reach me: **mandujayaweera2003@gmail.com**
 
-- ⚡ Fun fact **I automate everything, even my coffee brewing! ☕💻**
+- ⚡ Fun fact: **I build Web, Mobile, Desktop and AI projects**
 
-
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -292,10 +292,5 @@
 
 
 <p align="center"><a href="https://www.buymeacoffee.com/lakshithamadumal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lakshithamadumal" /></a></p><br><be>
-
-<div align="center">
-<br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=39d353&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=70&section=footer"/>
