@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Java, Java EE, Android, JavaFX, Swing, React Native, Flutter, PHP, Firebase, UI/UX**
 
-- 📫 Reach me: **mandujayaweera2003@gmail.com**
+- 📫 Reach me: **lakshithamadumal.dev@gmail.com**
 
 - ⚡ Fun fact: **I build Web, Mobile, Desktop and AI projects**
 
