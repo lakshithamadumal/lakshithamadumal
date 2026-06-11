@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://iamlaky.online/)
 
-- 📝 I regularly write articles on LinkedIn
+- 📝 I regularly write articles on [Medium](https://medium.com/@lakshithamadumal)
 
 - 💬 Ask me about **Java, Java EE, Android, JavaFX, Swing, React Native, Flutter, PHP, Firebase, UI/UX**
 
