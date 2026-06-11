@@ -9,7 +9,7 @@
 </div>
 </br>
 
-- 🔭 I’m currently working on [Roomer v2](https://github.com/The-Zenon-Studio/roomer-ledger-app-v2)
+- 🔭 I’m currently working on [Roomer v2](https://github.com/lakshithamadumal/roomer-ledger-app-v2)
 
 - 🌱 I’m currently learning **Spring Boot, Flutter, Supabase and expanding into modern full-stack development**
 
