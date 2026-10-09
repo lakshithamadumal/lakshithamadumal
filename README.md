@@ -10,7 +10,7 @@
 </div>
 </br>
 
-- 🔭 I’m currently working on [Roomer v2](https://github.com/lakshithamadumal/roomer-ledger-app-v2)
+- 🔭 I’m currently working on [Colombo Marathon](https://colombomarathon.lk/)
 
 - 🌱 I’m currently learning **Spring Boot, Flutter, Supabase and expanding into modern full-stack development**
 
@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking to collaborate on innovative ideas in **AI, Mobile Apps and Modern Web Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](http://iamlaky.online/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.lakshithamadumal.me/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@lakshithamadumal)
 
